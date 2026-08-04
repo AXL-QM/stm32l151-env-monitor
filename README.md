@@ -1,4 +1,4 @@
-<img width="4096" height="3072" alt="af697f92d09eb21323d8f1f7abfd4bf7" src="https://github.com/user-attachments/assets/b3370c77-ceec-48de-98bf-16ffb17d4737" /># stm32l151-env-monitor
+stm32l151-env-monitor
 基于STM32L151开发板的环境监测系统
 # 环境检测系统 - 项目进度说明
 
